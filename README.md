@@ -6,6 +6,6 @@
 - ⚡ Fun fact: I love bringing complex problems to life through beautiful visuals!!!
 
 <!---
-Thrishaaramachandran/Thrishaaramachandran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rThrishaa/Thrishaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
